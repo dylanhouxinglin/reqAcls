@@ -1,0 +1,13 @@
+url,params,isnormal,filepath,lineno,content,error
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849[]0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_[]_0""]}",n,,,,none
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849__0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""_529678849_[]_0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""0_[]_0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_[]_0"", """"]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""_[]_0"", ""0_[]_0""]}",b,,,,param
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_[]_0""]}",b,ArtworkServiceMulit.php,26,\t\t$ret = false;\n,network
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_[]_0""]}",b,ArtworkServiceMulit.php,26,\t\t$ret['errno'] = 1;\n,network
+http://127.0.0.1:8970/achilles/v3/origin/aclsphp/acls/artworkservicemulit,"{""ids"":[""529678849_[]_0""]}",b,ArtworkServiceMulit.php,26,\t\t$ret['errNo'] = [];\n,network
